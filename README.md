@@ -1,4 +1,4 @@
-vector-ops
+vectorops
 ==========
 
 **Advanced Vector Operations for Ruby.**

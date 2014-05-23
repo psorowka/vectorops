@@ -48,7 +48,7 @@ which is exactly what you want. Unfortunately, as of now, the libary seems not t
       v1 + 2
 
 
-Using the vector-ops Gem, the following operations work like expected
+Using the vectorops Gem, the following operations work like expected
 
       v1 = Vector[1,1,1,0,0,0]
       v2 = Vector[1,1,1,1,1,1]
@@ -69,10 +69,10 @@ Using the vector-ops Gem, the following operations work like expected
 Usage
 -----
 
-Install vector-ops using the command
+Install vectorops using the command
 
-      gem install vector-ops
+      gem install vectorops
 
-Or include the vector-ops gem into your Gemfile
+Or include the vectorops gem into your Gemfile
 
-      gem 'vector-ops'
+      gem 'vectorops'
